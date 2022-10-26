@@ -1,3 +1,3 @@
 ### Hello! 👋
-
-I am a data scientist 🔭, and I am learning on my own 🌱 the implementation of different machine learning and deep learning algorithms. The tools I use most are SQL, Python, R and Power Bi. I'm working as a freelancer data scientist in two projects.
+I am a data developer. 
+I have worked as a Data Engineer and also as a Data Scientist, and I love both :)
